@@ -1,0 +1,12 @@
+1 crie uma classe chamada pessoa, contendo os seguintes atributos 
+-CPF
+-nome
+-end
+-email 
+-salario 
+-qtd filhos 
+
+-os atributos devem ser incializados no metódo construtor 
+-crie uma procedure para imprimir os dados 
+-crie uma função para reajustar o salario em 12%(percentual recebido por parametro) e imprima o valor na tela 
+-crie uma função para calcular o salario familía (5% p/ cada filho se a qtd de filho for maior que cinco)
